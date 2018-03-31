@@ -4,15 +4,19 @@
 
 With this materials I plan to show popular, open-source tools and defensive strategies that -- by protecting your from common errors -- should lead to a smoother and more reproducible scientific-workflow.
 
-## Idea
+## Toolkit | Cognitive tools
 
 Why airplanes crash so infrequently?
 
 <iframe src="https://todaysmeet.com/room/3260822/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
----
+.
 
 The strongest driver of human behaviour environment. By shaping your environment you can increase the odds that you will display the behaviour that you want. Luckily, the key behaviours that determine your success are relatively few. 
+
+![](https://i.imgur.com/j6aUh1q.png)
+
+.
 
 These two things will help you maximize your success:
 
@@ -23,25 +27,26 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 
 <iframe src="https://todaysmeet.com/room/3260823/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
----
+.
+
+* The design of everyday things (Donald A. Norman)
+* Switch: How to Change Things When Change Is Hard (Dan Heath, Chip Heath).
+* The Habits Guide: How to Build Good Habits and Break Bad Ones (James Clear).
+
+([Links to resources](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+
+.
 
 ## Toolkit | Software tools
 
-* Google sheets (e.g. https://bit.ly/share-wisdom)
-* rstudio.cloud
-* publishing services
-* using R-packages
-  * __tidyverse__
-  * rmarkdown documents
-* data R-packages
-* project R-packags
-
-## Toolkit | Cognitive tools
-
-* Switch: How to Change Things When Change Is Hard (book by Dan Heath, Chip Heath).
-* The Habits Guide: How to Build Good Habits and Break Bad Ones (book by James Clear).
-
-([Links to resources](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+* Google sheets.
+* Manage collaboration (GitHub).
+* rstudio.cloud.
+* Online publishing (GitHub, rpubs, rstudioconnect).
+* Using defensive R-packages (__tidyverse__).
+* Simple, popular sintax for writting documentation (rmarkdown)
+* Building R-packages for storing and sharing data.
+* Building R-packages for managing a paper.
 
 # Work
 
@@ -62,9 +67,4 @@ Bonus:
 
 <iframe src="https://todaysmeet.com/room/3260861/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
----
-
-
-
-
-
+.
