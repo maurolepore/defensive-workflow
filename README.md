@@ -1,6 +1,4 @@
-# Introduction
-
-## Overview
+# Overview
 
 With this materials I plan to show popular, open-source tools and defensive strategies that -- by protecting your from common errors -- should lead to a smoother and more reproducible scientific-workflow.
 
@@ -72,3 +70,5 @@ Bonus:
 ## Manage collaboration (GitHub)
 
 * ...
+
+## ...
