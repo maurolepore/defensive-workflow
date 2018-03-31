@@ -31,7 +31,7 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 * Switch: How to Change Things When Change Is Hard (Dan Heath, Chip Heath).
 * The Habits Guide: How to Build Good Habits and Break Bad Ones (James Clear).
 
-([Links to resources](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+([References](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
 
 ---
 
