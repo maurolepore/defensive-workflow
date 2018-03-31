@@ -1,3 +1,5 @@
+# Introduction
+
 ## Overview
 
 With this materials I plan to show popular, open-source tools and defensive strategies that -- by protecting your from common errors -- should lead to a smoother and more reproducible scientific-workflow.
@@ -25,7 +27,7 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 
 ## Toolkit | Software tools
 
-* Google sheets ([example](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+* Google sheets (e.g. https://bit.ly/share-wisdom)
 * rstudio.cloud
 * publishing services
 * using R-packages
@@ -40,5 +42,29 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 * The Habits Guide: How to Build Good Habits and Break Bad Ones (book by James Clear).
 
 ([Links to resources](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+
+# Work
+
+## Software tools: Google sheets
+
+Explore [this Google-sheets database](https://bit.ly/share-wisdom) and comment on at least one of the following:
+
+* Name of columns.
+* Name of sheets.
+* Cross-reference between column names accross different sheets.
+* Validation criteria.
+* Cells protection: Warnings versus forbidden edits.
+
+Bonus: 
+
+* Get a free audible book from my bookshelf :)
+* Add your favorite free resource.
+
+<iframe src="https://todaysmeet.com/room/3260861/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
+
+---
+
+
+
 
 
