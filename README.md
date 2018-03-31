@@ -1,8 +1,6 @@
 ## Overview
 
-One-hour demo/discussoin about popular open-source tools for efficient scientific workflows.
-
-I'll show how popular, open-source tools can help you create a safe work environment that, by protecting you from common error, will smoothen your workflow and easier lead to success.
+With this materials I plan to show/discuss popular, open-source tools that can protect you from common errors and lead to a smoother and more effective scientific workflow.
 
 ## Idea
 
