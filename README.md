@@ -20,7 +20,14 @@ Two things will help you makimize your success:
 1. Identify key behaviour. 
 2. Shape your environment to enforce those behaviours. 
 
-For example, don't bother resisting that icecream in your refrigerator; instead just don't buy icecream in the first place.
+<iframe src="https://todaysmeet.com/room/3260822/embed?type=transcript&hide_ui=0" height="400" width="100%"></iframe>
+
+Now, say that you want to eat healthier. Which behaviour may help you achieve your goal more effectively?
+
+1. Resist the icecream every time you open your refrigerator.
+2. Avoid buying icecream.
+
+<iframe src="https://todaysmeet.com/room/3260823/embed?type=transcript&hide_ui=0" height="400" width="100%"></iframe>
     
 ## What to show and discuss
 
