@@ -1,6 +1,6 @@
 ## Overview
 
-With this materials I plan to show/discuss popular, open-source tools that can protect you from common errors and lead to a smoother and more effective scientific workflow.
+With this materials I plan to discuss and show popular, open-source tools that can protect you from common errors and lead to a smoother and more effective scientific workflow.
 
 ## Idea
 
