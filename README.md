@@ -1,6 +1,6 @@
 ## Overview
 
-This are materials for a one-hour seminar about popular open-source tools for efficient scientific workflows.
+One-hour demo/discussoin about popular open-source tools for efficient scientific workflows.
 
 I'll show how popular, open-source tools can help you create a safe work environment that, by protecting you from common error, will smoothen your workflow and easier lead to success.
 
