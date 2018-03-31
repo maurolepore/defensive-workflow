@@ -6,9 +6,6 @@ With this materials I plan to show popular, open-source tools and defensive stra
 
 Why airplanes crash so infrequently?
 
-1. Because the pilots err almost never.
-2. Because airplances were designed to make common errors almost impossible.
-
 <iframe src="https://todaysmeet.com/room/3260822/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
 ---
@@ -20,10 +17,7 @@ These two things will help you maximize your success:
 1. Identify key behaviour. 
 2. Shape your environment to enforce those behaviours. 
 
-Now, say that you want to eat healthier. Which behaviour may help you achieve your goal more effectively?
-
-1. Resist the icecream every time you open your refrigerator.
-2. Avoid buying icecream.
+Now, say that you want to eat healthier. Which behaviour may help you achieve your goal?
 
 <iframe src="https://todaysmeet.com/room/3260823/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
