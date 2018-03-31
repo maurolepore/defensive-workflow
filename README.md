@@ -1,8 +1,8 @@
-# workflow
+## Overview
 
-Materials for a one-hour seminar about popular open-source tools for efficient scientific workflows.
+This are materials for a one-hour seminar about popular open-source tools for efficient scientific workflows.
 
-* [Google sheet](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing) to demonstrate features that are great for scientific data collection. The dataset contains links to potentially useful resources -- including books, websites, articles, and videos.
+I'll show how popular, open-source tools can help you create a safe work environment that, by protecting you from common error, will smoothen your workflow and easier lead to success.
 
 ## Idea
 
@@ -28,20 +28,10 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 2. Avoid buying icecream.
 
 <iframe src="https://todaysmeet.com/room/3260823/embed?type=transcript&hide_ui=0" height="400" width="100%"></iframe>
-    
-## What to show and discuss
 
-I'll show how popular, open-source tools can help you create a safe work environment that, by protecting you from common error, will smoothen your workflow and easier lead to success.
+## Toolkit | Software tools
 
-To give everyone a voice in our discussions I'll likely use https://todaysmeet.com/.
-
-## Toolkit
-
-These are some tools that I'm considering.
-
-Software tools:
-
-* Google sheets
+* Google sheets ([example](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
 * rstudio.cloud
 * publishing services
 * using R-packages
@@ -50,7 +40,7 @@ Software tools:
 * data R-packages
 * project R-packags
 
-Cognitive tools:
+## Toolkit | Cognitive tools
 
 * Switch: How to Change Things When Change Is Hard (book by Dan Heath, Chip Heath).
 * The Habits Guide: How to Build Good Habits and Break Bad Ones (book by James Clear).
