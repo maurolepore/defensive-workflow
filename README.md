@@ -11,18 +11,22 @@ Why airplanes crash so infrequently?
 a. Because the pilots err almost never.
 b. Because airplances were designed to make common errors almost impossible.
 
+---
+
 The strongest driver of human behaviour environment. By shaping your environment you can increase the odds that you will display the behaviour that you want. Luckily, the key behaviours that determine your success are relatively few. 
 
 Two things will help you makimize your success:
 
-(1) Identify key behaviour. 
-(2) Shape your environment to enforce those behaviours. 
+1. Identify key behaviour. 
+2. Shape your environment to enforce those behaviours. 
 
 For example, don't bother resisting that icecream in your refrigerator; instead just don't buy icecream in the first place.
     
-## What to show/discuss
+## What to show and discuss
 
 I'll show how popular, open-source tools can help you create a safe work environment that, by protecting you from common error, will smoothen your workflow and easier lead to success.
+
+To give everyone a voice in our discussions I'll likely use https://todaysmeet.com/.
 
 ## Toolkit
 
