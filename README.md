@@ -11,7 +11,7 @@ Why airplanes crash so infrequently?
 1. Because the pilots err almost never.
 2. Because airplances were designed to make common errors almost impossible.
 
-<iframe src="https://todaysmeet.com/room/3260822/embed?type=transcript&hide_ui=0" height="400" width="100%"></iframe>
+<iframe src="https://todaysmeet.com/room/3260822/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
 ---
 
@@ -27,7 +27,7 @@ Now, say that you want to eat healthier. Which behaviour may help you achieve yo
 1. Resist the icecream every time you open your refrigerator.
 2. Avoid buying icecream.
 
-<iframe src="https://todaysmeet.com/room/3260823/embed?type=transcript&hide_ui=0" height="400" width="100%"></iframe>
+<iframe src="https://todaysmeet.com/room/3260823/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
 
 ---
 
