@@ -1,93 +1,110 @@
 
-# Overview
+## bit.ly/defensive-workflow | Protect yourself against poorly designed systems
 
-With this materials I plan to show popular, open-source tools and
-defensive strategies that – by protecting your from common errors –
-should lead to a smoother and more reproducible scientific-workflow.
+![bad design: gun](https://goo.gl/upqm2A)
 
-# Cognitive tools
+<small> bit.ly/defensive-workflow </small>
 
-Why airplanes crash so
-infrequently?
+## How poorly designed systems impact your work? | Examples?
 
-<iframe src="https://todaysmeet.com/room/3260822/embed?type=live&amp;hide_ui=0" height="400" width="100%">
+![bad versus good design: stove](https://goo.gl/fP43ed)
 
-</iframe>
+<small> bit.ly/defensive-workflow
+</small>
 
------
+## What does the scientific workflow look like? | Is there anything missing?
 
-The strongest driver of human behaviour environment. By shaping your
-environment you can increase the odds that you will display the
-behaviour that you want. Luckily, the key behaviours that determine your
-success are relatively few.
+[R for Data Science](http://r4ds.had.co.nz/)
 
-![](https://i.imgur.com/j6aUh1q.png)
+![data science workflow](https://goo.gl/rrK4ef) K <small>
+bit.ly/defensive-workflow </small>
 
------
+## Do you collect data? Then your workflow starts here
 
-These two things will help you maximize your success:
+![sheets to collect tabular data](https://goo.gl/DgZNFy)
 
-1.  Identify key behaviour.
-2.  Shape your environment to enforce those behaviours.
+<small> bit.ly/defensive-workflow </small>
 
-Now, say that you want to eat healthier. Which behaviour may help you
-achieve your
-goal?
+## What matters and what doesn’t?
 
-<iframe src="https://todaysmeet.com/room/3260823/embed?type=live&amp;hide_ui=0" height="400" width="100%">
-
-</iframe>
+![The subtle art of not giving a fuck](https://goo.gl/XnsGif)
 
 -----
 
-  - The design of everyday things (Donald A. Norman)
-  - Switch: How to Change Things When Change Is Hard (Dan Heath, Chip
-    Heath).
-  - The Habits Guide: How to Build Good Habits and Break Bad Ones (James
-    Clear).
+![Not all matters equally, what’s crucial are your
+turns](https://goo.gl/V8AUHL)
 
-([References](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+<small> bit.ly/defensive-workflow </small>
 
------
+## 
 
-## Software tools: Overview
+### Can you identify key behaviour?
 
-  - Google sheets.
-  - Manage collaboration (GitHub).
-  - rstudio.cloud.
-  - Online publishing (GitHub, rpubs, rstudioconnect).
-  - Using defensive R-packages (**tidyverse**).
-  - Simple, popular sintax for writting documentation (rmarkdown)
-  - Building R-packages for storing and sharing data.
-  - Building R-packages for managing a paper.
+### How can you shape your environment to enforce key behaviour?
+
+<small> bit.ly/defensive-workflow </small>
+
+# Popular, open-source tools for a defensive workflow
+
+  - Collect data: [Google sheets](https://goo.gl/T9YCgk).
+
+  - Manage collaboration: [GitHub](https://github.com/features).
+
+  - Mange entire projects (interface):
+    [RStudio](https://goo.gl/2RKRq3K),
+    [rstudio.cloud](https://rstudio.cloud/).
+
+  - Communicate via webpages:
+    [GitHub](https://guides.github.com/features/pages/),
+    [rpubs](http://rpubs.com/),
+    [rstudioconnect](https://www.rstudio.com/products/connect/).
+
+<small> bit.ly/defensive-workflow </small>
+
+# Popular, open-source tools for a defensive workflow | Continued
+
+  - Use popular, consistent, and defensive R-packages:
+    [**tidyverse**](https://www.tidyverse.org/).
+
+  - Write plain text and reuse it easily:
+    [rmarkdown](https://rmarkdown.rstudio.com/).
+
+  - Manage and share data and papers:
+    [R-packages](http://r-pkgs.had.co.nz/),
+    [ropensci](https://ropensci.org/)
+
+<small> bit.ly/defensive-workflow </small>
 
 # Software tools
 
-## Google sheets
+## Collect data: Google sheets.
 
-Explore [this Google-sheets database](https://bit.ly/share-wisdom) and
-comment on at least one of the following:
+![google sheets](https://goo.gl/ea3618)
 
-  - Name of columns.
-  - Name of sheets.
-  - Cross-reference between column names accross different sheets.
-  - Validation criteria.
-  - Cells protection: Warnings versus forbidden edits.
+<small> bit.ly/defensive-workflow </small>
 
-Bonus:
+## Manage collaboration: GitHub
 
-  - Get a free audible book from my bookshelf :)
-  - Add your favorite free
-resource.
+…
 
-<iframe src="https://todaysmeet.com/room/3260861/embed?type=live&amp;hide_ui=0" height="400" width="100%">
+<small> bit.ly/defensive-workflow </small> K \#\# …
 
-</iframe>
+<small> bit.ly/defensive-workflow </small>
 
------
+## Defensive R-packages: [**tidyverse**](https://www.tidyverse.org/)
 
-## Manage collaboration (GitHub)
+![](https://ourcodingclub.github.io/img/tidyverse.png)
 
-  - …
+<small> bit.ly/defensive-workflow </small>
 
 ## …
+
+…
+
+<small> bit.ly/defensive-workflow </small>
+
+## Direct the rider, motivate the elephant, shape the path
+
+![Switch](https://goo.gl/rY7kqC)
+
+<small> bit.ly/defensive-workflow </small>

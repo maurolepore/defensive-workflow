@@ -1,81 +1,135 @@
 ---
-output:
-  github_document:
-    toc: true
-    toc_depth: 3
+subtitle: bit.ly/defensive-workflow
+output: github_document
 ---
 
-# Overview
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, eval = FALSE)
+```
 
-With this materials I plan to show popular, open-source tools and defensive strategies that -- by protecting your from common errors -- should lead to a smoother and more reproducible scientific-workflow.
+## bit.ly/defensive-workflow | Protect yourself against poorly designed systems
 
-# Cognitive tools
+```{r}
+## Overview
 
-Why airplanes crash so infrequently?
+# With this materials I plan to show popular, open-source tools and defensive
+# strategies that -- by protecting your from common errors -- should lead to a
+# smoother and more reproducible scientific-workflow.
+```
 
-<iframe src="https://todaysmeet.com/room/3260822/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
+![bad design: gun](https://goo.gl/upqm2A)
+
+<small> bit.ly/defensive-workflow </small>
+
+## How poorly designed systems impact your work? | Examples?
+
+![bad versus good design: stove](https://goo.gl/fP43ed)
+
+<small> bit.ly/defensive-workflow </small>
+
+## What does the scientific workflow look like? | Is there anything missing?
+
+[R for Data Science](http://r4ds.had.co.nz/)
+
+![data science workflow](https://goo.gl/rrK4ef)
+K
+<small> bit.ly/defensive-workflow </small>
+
+## Do you collect data? Then your workflow starts here
+
+![sheets to collect tabular data](https://goo.gl/DgZNFy)
+
+<small> bit.ly/defensive-workflow </small>
+
+## What matters and what doesn't?
+
+```{r}
+# The strongest driver of human behaviour environment. By shaping your
+# environment you can increase the odds that you will display the behaviour that
+# you want. Luckily, the key behaviours that determine your success are
+# relatively few.
+```
+
+![The subtle art of not giving a fuck](https://goo.gl/XnsGif)
 
 ---
 
-The strongest driver of human behaviour environment. By shaping your environment you can increase the odds that you will display the behaviour that you want. Luckily, the key behaviours that determine your success are relatively few. 
+![Not all matters equally, what's crucial are your turns](https://goo.gl/V8AUHL)
 
-![](https://i.imgur.com/j6aUh1q.png)
+<small> bit.ly/defensive-workflow </small>
 
----
+## 
 
-These two things will help you maximize your success:
+### Can you identify key behaviour?
 
-1. Identify key behaviour. 
-2. Shape your environment to enforce those behaviours. 
+### How can you shape your environment to enforce key behaviour?
 
-Now, say that you want to eat healthier. Which behaviour may help you achieve your goal?
+<small> bit.ly/defensive-workflow </small>
 
-<iframe src="https://todaysmeet.com/room/3260823/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
+# Popular, open-source tools for a defensive workflow
 
----
+* Collect data: [Google sheets](https://goo.gl/T9YCgk).
 
-* The design of everyday things (Donald A. Norman)
-* Switch: How to Change Things When Change Is Hard (Dan Heath, Chip Heath).
-* The Habits Guide: How to Build Good Habits and Break Bad Ones (James Clear).
+* Manage collaboration: [GitHub](https://github.com/features).
 
-([References](https://docs.google.com/spreadsheets/d/1GtAW9t6A6zcEpIQvCaylcFpQkbjNgWjz7XYotHL9gbs/edit?usp=sharing))
+* Mange entire projects (interface): [RStudio](https://goo.gl/2RKRq3K), [rstudio.cloud](https://rstudio.cloud/).
 
----
+* Communicate via webpages: [GitHub](https://guides.github.com/features/pages/), [rpubs](http://rpubs.com/),
+[rstudioconnect](https://www.rstudio.com/products/connect/).
 
-## Software tools: Overview
+<small> bit.ly/defensive-workflow </small>
 
-* Google sheets.
-* Manage collaboration (GitHub).
-* rstudio.cloud.
-* Online publishing (GitHub, rpubs, rstudioconnect).
-* Using defensive R-packages (__tidyverse__).
-* Simple, popular sintax for writting documentation (rmarkdown)
-* Building R-packages for storing and sharing data.
-* Building R-packages for managing a paper.
+# Popular, open-source tools for a defensive workflow | Continued
+
+* Use popular, consistent, and defensive R-packages: [__tidyverse__](https://www.tidyverse.org/).
+
+* Write plain text and reuse it easily: [rmarkdown](https://rmarkdown.rstudio.com/).
+
+* Manage and share data and papers: [R-packages](http://r-pkgs.had.co.nz/), [ropensci](https://ropensci.org/)
+
+<small> bit.ly/defensive-workflow </small>
 
 # Software tools
 
-## Google sheets
+## Collect data: Google sheets.
 
-Explore [this Google-sheets database](https://bit.ly/share-wisdom) and comment on at least one of the following:
+```{r}
+# * Name of columns.
+# * Name of sheets.
+# * Validation criteria.
+# * Cross-reference between column names accross different sheets.
+# * Cells protection: Warnings versus forbidden edits
+```
 
-* Name of columns.
-* Name of sheets.
-* Cross-reference between column names accross different sheets.
-* Validation criteria.
-* Cells protection: Warnings versus forbidden edits.
+![google sheets](https://goo.gl/ea3618)
 
-Bonus: 
+<small> bit.ly/defensive-workflow </small>
 
-* Get a free audible book from my bookshelf :)
-* Add your favorite free resource.
+## Manage collaboration: GitHub
 
-<iframe src="https://todaysmeet.com/room/3260861/embed?type=live&hide_ui=0" height="400" width="100%"></iframe>
+...
 
----
+<small> bit.ly/defensive-workflow </small>
+K
+## ...
 
-## Manage collaboration (GitHub)
+<small> bit.ly/defensive-workflow </small>
 
-* ...
+## Defensive R-packages: [__tidyverse__](https://www.tidyverse.org/)
+
+![](https://ourcodingclub.github.io/img/tidyverse.png)
+
+<small> bit.ly/defensive-workflow </small>
 
 ## ...
+
+...
+
+<small> bit.ly/defensive-workflow </small>
+
+
+## Direct the rider, motivate the elephant, shape the path
+
+![Switch](https://goo.gl/rY7kqC)
+
+<small> bit.ly/defensive-workflow </small>
