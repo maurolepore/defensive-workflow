@@ -16,8 +16,9 @@
 
 [R for Data Science](http://r4ds.had.co.nz/)
 
-![data science workflow](https://goo.gl/rrK4ef) K <small>
-bit.ly/defensive-workflow </small>
+![data science workflow](https://goo.gl/rrK4ef)
+
+<small> bit.ly/defensive-workflow </small>
 
 ## Do you collect data? Then your workflow starts here
 
@@ -25,22 +26,10 @@ bit.ly/defensive-workflow </small>
 
 <small> bit.ly/defensive-workflow </small>
 
-## What matters and what doesn’t?
-
-![The subtle art of not giving a fuck](https://goo.gl/XnsGif)
-
------
+## What key behaviours determine your success?
 
 ![Not all matters equally, what’s crucial are your
 turns](https://goo.gl/V8AUHL)
-
-<small> bit.ly/defensive-workflow </small>
-
-## 
-
-### Can you identify key behaviour?
-
-### How can you shape your environment to enforce key behaviour?
 
 <small> bit.ly/defensive-workflow </small>
 
@@ -105,6 +94,8 @@ turns](https://goo.gl/V8AUHL)
 <small> bit.ly/defensive-workflow </small>
 
 ## Direct the rider, motivate the elephant, shape the path
+
+### Identify key behaviours and shape your environment to enforce them.
 
 ![Switch](https://i.imgur.com/1G1A14v.jpg)
 
