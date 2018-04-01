@@ -67,7 +67,8 @@ turns](https://goo.gl/V8AUHL)
     [**tidyverse**](https://www.tidyverse.org/).
 
   - Write plain text and reuse it easily:
-    [rmarkdown](https://rmarkdown.rstudio.com/).
+    [rmarkdown](https://rmarkdown.rstudio.com/)
+    ([cheetsheet](https://goo.gl/tZ55TP)).
 
   - Manage and share data and papers:
     [R-packages](http://r-pkgs.had.co.nz/),

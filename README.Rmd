@@ -83,7 +83,7 @@ K
 
 * Use popular, consistent, and defensive R-packages: [__tidyverse__](https://www.tidyverse.org/).
 
-* Write plain text and reuse it easily: [rmarkdown](https://rmarkdown.rstudio.com/).
+* Write plain text and reuse it easily: [rmarkdown](https://rmarkdown.rstudio.com/) ([cheetsheet](https://goo.gl/tZ55TP)).
 
 * Manage and share data and papers: [R-packages](http://r-pkgs.had.co.nz/), [ropensci](https://ropensci.org/)
 
