@@ -1,5 +1,5 @@
 
-## bit.ly/defensive-workflow | Protect yourself against poorly designed systems
+## bit.ly/defensive-workflow | How to protect yourself against yourself?
 
 ![bad design: gun](https://goo.gl/upqm2A)
 
@@ -106,6 +106,6 @@ turns](https://goo.gl/V8AUHL)
 
 ## Direct the rider, motivate the elephant, shape the path
 
-![Switch](https://goo.gl/rY7kqC)
+![Switch](https://i.imgur.com/1G1A14v.jpg)
 
 <small> bit.ly/defensive-workflow </small>

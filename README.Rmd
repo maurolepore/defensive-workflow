@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = FALSE, eval = FALSE)
 ```
 
-## bit.ly/defensive-workflow | Protect yourself against poorly designed systems
+## bit.ly/defensive-workflow | How to protect yourself against yourself?
 
 ```{r}
 ## Overview
@@ -130,6 +130,6 @@ K
 
 ## Direct the rider, motivate the elephant, shape the path
 
-![Switch](https://goo.gl/rY7kqC)
+![Switch](https://i.imgur.com/1G1A14v.jpg)
 
 <small> bit.ly/defensive-workflow </small>
