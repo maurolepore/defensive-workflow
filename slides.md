@@ -95,103 +95,59 @@ Learn more:
 
 
 
+## Import, tidy, understand: [tidyverse](https://www.tidyverse.org/) | <small> bit.ly/defensive-workflow </small>
 
-# For R users | Skip in general discusisons
-
-
-
-## Project management: [RStudio](https://www.rstudio.com/) | <small> bit.ly/defensive-workflow </small>
-
-R objectes from previous sesisons contamine your R environment: Global options.
-
-![](https://i.imgur.com/ywlwLq2.png)
-
-
-```
-## Installing package into '/home/rstudio-user/R/x86_64-pc-linux-gnu-library/3.4'
-## (as 'lib' is unspecified)
-```
-
-```
-## ● To start ALL RStudio sessions with a blank slate, you must set this interactively, for now.
-## ● In Global Options > General, do NOT check "Restore .RData into workspace at startup".
-## ● In Global Options > General, set "Save workspace to .RData on exit" to "Never".
-## ● Call `use_blank_slate("project")` to opt in to the blank slate workflow in this project.
-```
-
-Learn more:
-
-* Webinar [Projects in RStudio](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-change-part-1/)
-* [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-* Webinar [Writing Code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/)
-* Webinar [What’s New with the IDE](https://www.rstudio.com/resources/videos/whats-new-with-the-ide/)
+<img src="https://ourcodingclub.github.io/img/tidyverse.png" align="center" height=400 />
 
 
 
-## Project management: rstudio.cloud | <small> bit.ly/defensive-workflow </small>
+## TODO: Import, tidy, understand: [tidyverse](https://www.tidyverse.org/) | <small> bit.ly/defensive-workflow </small>
 
-* An available computer may lack R and RStudio: Online access.
-* Your code may behave differently in older R versions: Can choose version.
-* An available computer may lack packages you need: Keeps packages.
-
-Learn more: Video [Learning R with rstudio.cloud](https://www.rstudio.com/resources/videos/learning-r-with-rstudio-cloud/)
-
-
-
-## Project management: here and rmarkdown | <small> bit.ly/defensive-workflow </small>
-
-* Your code won't be reproducible if you set your working directory: Use `here::here()`.
-* Your environment gets contamined quickly and code upstream may fail:
-    * restart session often (Control + Shift + F10)
-    * Use rmarkdown documents and notebooks
-* You code comments don't poorly express your decisions: rmarkdown documents.
+Tools are scattered and inconsisent: Use the [tidyverse](https://www.tidyverse.org/) (nicely integrated in RStudio).
 
 Learn more: 
 
-* [Project oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/), by Jenny Brian .
-* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-* [Getting Started with R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
-* [Introducing Notebooks with R Markdown](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/)
+* Cheetsheets and webinars
+    * Import: Webinar
+    * Tidy: Cheetsheet
+    * Transform: Cheetsheet, webinar
+    * Visualize: 
+    * Communicate
+
+* Book: R for data science
+
+* Tutorials: [rstudio.cloud primers](https://rstudio.cloud/learn/primers)
 
 
 
-## TODO: Ask for help: reprex | <small> bit.ly/defensive-workflow </small>
+## TODO: Communicate: Rmarkdown | <small> bit.ly/defensive-workflow </small>
 
-TODO: Add content
-
-Learn more: https://www.tidyverse.org/help/
-
-
-
-### TODO: Installing packages | <small> bit.ly/defensive-workflow </small>
-
-Tool: `installr::updater()`, __remotes__
-
-* Struggle to install R-packages: `installr::updater()`, `remotes::install_github()`.
-
-Learn more: My post on RStudio community
+<div align="center">
+   <iframe width="560" height="315" src="https://vimeo.com/178485416" frameborder="0" allowfullscreen>
+   </iframe>
+</div>
 
 
 
-## TODO: Importing data | <small> bit.ly/defensive-workflow </small>
+## TODO: Communicate: Rmarkdown | <small> bit.ly/defensive-workflow </small>
 
-Tool: RStudio, readr
+Analyses and results become out of sync: Use and publish rmarkdown products:
 
-Learn more: my post on reading data with readr and base R.
-
-* Webinar [Importing data into R](https://www.rstudio.com/resources/webinars/importing-data-into-r/)
-
-* Cheetsheet [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
-
-
-
-
-
-# TODO: BACK TO GENERAL
+* .html files
+    * Websites
+    * Webpages
+    * Blogs
+    * Slides
+* Apps
+* Publishing service with R engine
+* Word documents
 
 
-# TODO: Back to general
+
+## TODO: Ask for help
+
+## TODO: More
+
 
 ## Summary: Software tools [![lifecycle](https://img.shields.io/badge/lifecycle-works_for_me-ff69b4.svg)](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/) | <small> bit.ly/defensive-workflow </small>
 
@@ -201,6 +157,7 @@ GitHub
 
 RStudio
 
+tidyverse
 
 
 
@@ -214,62 +171,6 @@ Design a defensive workflow, with tools and habits that facilitate key behaviors
 
 
 
-# Resources
-
-
-
-## Human behaviour (and more) | <small> bit.ly/defensive-workflow </small>
-
-My [audible library](http://bit.ly/share-wisdom) (also an example of a thoughfully crafted Google sheet)
-
-
-
-## Curated resources to learn R | <small> bit.ly/defensive-workflow </small>
-
-* Books:
-    * [R for Data Science](http://r4ds.had.co.nz/)
-    * [Advanced R](http://adv-r.had.co.nz/)
-* Tutorials: [rstudio.cloud primers](https://rstudio.cloud/learn/primers)
-* [RStudio webinars](https://www.rstudio.com/resources/webinars/)
-* [Cheetsheets](https://www.rstudio.com/resources/cheatsheets/)
-
-
-
-## Curated cheetsheets | <small> bit.ly/defensive-workflow </small>
-
-* [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-* [Data Transformations](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
-* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-* [Data Visualization Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-* [Apply Functions Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf)
-* [Work with Strings Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
-* [Dates and Times Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
-
-
-
 # 
 
 end.
-
-
-
-# Ideas
-
-GENERAL
-* Know your text editor (RStudio)
-    * Know your shortcuts: Shift + Alt + K and search rstudio shortcuts online
-    * rstudio keyboard shortcuts
-    * RStudio IDE cheetsheet
-
-* Ask for help
-    * read help files `?`, `??` or help()
-    * rubber ducking (explain your problem)
-    * google
-    * read stack overflow
-    * read rstudio community
-    * ask in rstudio community
-    * reprex
-  
-HANDOUTS
-RStudio IDE cheetsheet

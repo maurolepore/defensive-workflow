@@ -97,6 +97,46 @@ Learn more:
 
 
 
+## Import, tidy, understand: [tidyverse](https://www.tidyverse.org/) | <small> bit.ly/defensive-workflow </small>
+
+<img src="https://ourcodingclub.github.io/img/tidyverse.png" align="center" height=400 />
+
+
+
+## TODO: Import, tidy, understand: [tidyverse](https://www.tidyverse.org/) | <small> bit.ly/defensive-workflow </small>
+
+Tools are scattered and inconsisent: Use the [tidyverse](https://www.tidyverse.org/) (nicely integrated in RStudio).
+
+Learn more: 
+
+* Cheetsheets and webinars
+    * Import: Webinar
+    * Tidy: Cheetsheet
+    * Transform: Cheetsheet, webinar
+    * Visualize: 
+    * Communicate
+
+* Book: R for data science
+
+* Tutorials: [rstudio.cloud primers](https://rstudio.cloud/learn/primers)
+
+## Communicate: Rmarkdown | <small> bit.ly/defensive-workflow </small>
+
+Analyses and results become out of sync: Use and publish rmarkdown products:
+
+Video (1'): [What is Rmarkdown?](https://vimeo.com/178485416)
+
+Learn more:
+
+* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+
+
+
+## TODO: Ask for help
+
+## TODO: More?
+
 
 ## Summary: Software tools [![lifecycle](https://img.shields.io/badge/lifecycle-works_for_me-ff69b4.svg)](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/) | <small> bit.ly/defensive-workflow </small>
 
@@ -106,6 +146,7 @@ GitHub
 
 RStudio
 
+tidyverse
 
 
 
