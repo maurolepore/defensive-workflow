@@ -98,6 +98,10 @@ Learn more: my post on reading data with readr and base R.
 
 
 
+## TODO: Comunicate: rstudioconnect | <small> bit.ly/defensive-workflow </small>
+
+
+
 # Ideas
 
 GENERAL

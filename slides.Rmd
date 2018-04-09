@@ -98,9 +98,6 @@ Learn more:
 
 
 
-
-# TODO: Back to general
-
 ## Summary: Software tools [![lifecycle](https://img.shields.io/badge/lifecycle-works_for_me-ff69b4.svg)](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/) | <small> bit.ly/defensive-workflow </small>
 
 Google sheets
@@ -119,40 +116,6 @@ Design a defensive workflow, with tools and habits that facilitate key behaviors
 * Lower risks.
 * Less frustration.
 * Better research.
-
-
-
-# Resources
-
-
-
-## Human behaviour (and more) | <small> bit.ly/defensive-workflow </small>
-
-My [audible library](http://bit.ly/share-wisdom) (also an example of a thoughfully crafted Google sheet)
-
-
-
-## Curated resources to learn R | <small> bit.ly/defensive-workflow </small>
-
-* Books:
-    * [R for Data Science](http://r4ds.had.co.nz/)
-    * [Advanced R](http://adv-r.had.co.nz/)
-* Tutorials: [rstudio.cloud primers](https://rstudio.cloud/learn/primers)
-* [RStudio webinars](https://www.rstudio.com/resources/webinars/)
-* [Cheetsheets](https://www.rstudio.com/resources/cheatsheets/)
-
-
-
-## Curated cheetsheets | <small> bit.ly/defensive-workflow </small>
-
-* [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-* [Data Transformations](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
-* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-* [Data Visualization Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-* [Apply Functions Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf)
-* [Work with Strings Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
-* [Dates and Times Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
 
 
 
