@@ -1,0 +1,120 @@
+---
+title: "Detailed slides for R users"
+subtitle: Risk assessment, tools, and habits for better research
+author: cc https://bit.ly/mauro_lepore | doc http://bit.ly/defensive-doc
+output: 
+  ioslides_presentation:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+## Project management: [RStudio](https://www.rstudio.com/) | <small> bit.ly/defensive-workflow </small>
+
+R objectes from previous sesisons contamine your R environment: Global options.
+
+![](https://i.imgur.com/ywlwLq2.png)
+
+```{r}
+install.packages("usethis")
+usethis::use_blank_slate()
+```
+
+Learn more:
+
+* Webinar [Projects in RStudio](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-change-part-1/)
+* [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+* Webinar [Writing Code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/)
+* Webinar [What’s New with the IDE](https://www.rstudio.com/resources/videos/whats-new-with-the-ide/)
+
+
+
+## Project management: rstudio.cloud | <small> bit.ly/defensive-workflow </small>
+
+* An available computer may lack R and RStudio: Online access.
+* Your code may behave differently in older R versions: Can choose version.
+* An available computer may lack packages you need: Keeps packages.
+
+Learn more: Video [Learning R with rstudio.cloud](https://www.rstudio.com/resources/videos/learning-r-with-rstudio-cloud/)
+
+
+
+## Project management: here and rmarkdown | <small> bit.ly/defensive-workflow </small>
+
+* Your code won't be reproducible if you set your working directory: Use `here::here()`.
+* Your environment gets contamined quickly and code upstream may fail:
+    * restart session often (Control + Shift + F10)
+    * Use rmarkdown documents and notebooks
+* You code comments don't poorly express your decisions: rmarkdown documents.
+
+Learn more: 
+
+* [Project oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/), by Jenny Brian .
+* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+* [Getting Started with R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+* [Introducing Notebooks with R Markdown](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/)
+
+
+
+## TODO: Ask for help: reprex | <small> bit.ly/defensive-workflow </small>
+
+TODO: Add content
+
+* See reprex.Rmd
+
+Learn more: https://www.tidyverse.org/help/
+
+## TODO: Ask for help: forums | <small> bit.ly/defensive-workflow </small>
+
+* See stuff in section ideas
+
+
+
+### TODO: Installing packages | <small> bit.ly/defensive-workflow </small>
+
+Tool: `installr::updater()`, __remotes__
+
+* Struggle to install R-packages: `installr::updater()`, `remotes::install_github()`.
+
+Learn more: My post on RStudio community
+
+
+
+## TODO: Importing data | <small> bit.ly/defensive-workflow </small>
+
+Tool: RStudio, readr
+
+Learn more: my post on reading data with readr and base R.
+
+* Webinar [Importing data into R](https://www.rstudio.com/resources/webinars/importing-data-into-r/)
+
+* Cheetsheet [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+
+
+
+# Ideas
+
+GENERAL
+
+* Know your text editor (RStudio)
+    * Know your shortcuts: Shift + Alt + K and search rstudio shortcuts online
+    * rstudio keyboard shortcuts
+    * RStudio IDE cheetsheet
+
+* Ask for help
+    * read help files `?`, `??` or help()
+    * rubber ducking (explain your problem)
+    * google
+    * read stack overflow
+    * read rstudio community
+    * ask in rstudio community
+    * reprex
+  
+HANDOUTS
+RStudio IDE cheetsheet
