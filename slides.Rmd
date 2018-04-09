@@ -163,3 +163,18 @@ Design a defensive workflow, with tools and habits that facilitate key behaviors
 # 
 
 end.
+
+
+
+# Ideas
+
+
+## Ask for help
+
+rubber ducking, reproducible examples, explain to someone
+Learn more: The pragmatic programmer
+
+## DRY
+* Use templates, snippets, ...
+Learn more: 
+* The pragmatic programmer

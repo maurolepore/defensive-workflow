@@ -104,12 +104,19 @@ Learn more: my post on reading data with readr and base R.
 
 # Ideas
 
-GENERAL
+## GENERAL
 
 * Know your text editor (RStudio)
     * Know your shortcuts: Shift + Alt + K and search rstudio shortcuts online
     * rstudio keyboard shortcuts
     * RStudio IDE cheetsheet
+
+##  HANDOUTS
+RStudio IDE cheetsheet
+
+
+## Ask for help
+
 
 * Ask for help
     * read help files `?`, `??` or help()
@@ -119,6 +126,12 @@ GENERAL
     * read rstudio community
     * ask in rstudio community
     * reprex
-  
-HANDOUTS
-RStudio IDE cheetsheet
+Learn more: Show .github/
+
+## DRY
+
+* Use templates, snippets, ...
+Learn more: 
+* The pragmatic programmer
+
+Learn more: my blog Don't repeat yourself.
