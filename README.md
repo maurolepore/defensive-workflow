@@ -101,3 +101,8 @@ Direct the rider, motivate the elephant, shape the path
 ![Switch](https://i.imgur.com/1G1A14v.jpg)
 
 <small> bit.ly/defensive-workflow </small>
+
+
+## Embedding data published from Google sheets
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4N_GFiVBmtiuJeQ85ulhdEnRFjeFBGB5KrzccHaj2wDwjk4MIl9-nzI8UI4bWYwoi9bECytAmJXaT/pubhtml?widget=true&amp;headers=false"></iframe>
